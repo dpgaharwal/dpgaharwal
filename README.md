@@ -28,10 +28,8 @@
   <a href="https://github.com/ucar?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-FFC43D?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 🚀 Coding Profiles
-
 <p align="center">
-  <a href="https://leetcode.com/dogaharwal/">
+  <a href="https://leetcode.com/dpgaharwal/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
   <a href="https://www.codechef.com/users/dpgaharwal">
@@ -40,7 +38,11 @@
   <a href="https://codeforces.com/profile/dpgaharwal">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
+  <a href="[https://www.codingninjas.com/codestudio/profile/dpgaharwal](https://www.naukri.com/code360/profile/a447f4f3-5035-4eed-8927-6955fbb64bb4)">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-2D2A32?style=for-the-badge&logo=codingninjas&logoColor=F9C23D" alt="Coding Ninjas Profile" />
+  </a>
 </p>
+
 
 ## Technology Stack
 
